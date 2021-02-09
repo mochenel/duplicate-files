@@ -1,0 +1,26 @@
+tr{
+    width: 185vh;
+    display: inline-table;;
+    table-layout: fixed;
+    
+}
+table{
+    height: 300px;
+
+}
+
+    tbody{
+    overflow-y: scroll;
+    height: 300px;
+    width: 185vh;
+    position: absolute;
+    display: block;
+
+}
+td{
+    word-wrap: break-word;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
