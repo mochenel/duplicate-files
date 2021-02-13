@@ -14,7 +14,7 @@
 * **Javascript**
 
 ## This App is running on heroku
-<a herf="https://duplicate-files.herokuapp.com/"> Click here to access it </a>
+<a href="https://duplicate-files.herokuapp.com/"> Click here to access it </a>
 
 
 
